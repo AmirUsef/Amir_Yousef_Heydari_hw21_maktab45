@@ -1,1 +1,4 @@
-# Amir_Yousef_Heydari_hw21_maktab45
+# blog
+run with : 
+npm install
+npm start
